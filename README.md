@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي في عيوني نورك
+> طول الليل بستنى حضورك
+> روحي بتناديك من بعيد
+> شوقي ليك كل يوم بيزيد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
